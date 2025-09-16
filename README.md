@@ -28,6 +28,15 @@ As páginas disponíveis no site são:
 - JavaScript  
 - Bootstrap 5
 
+## Aprendizados  
+
+O desenvolvimento do **Vicent’s Burgers**, um site fictício de hamburgueria, teve como principal objetivo estudar e aplicar o uso do framework **Bootstrap**. Durante o projeto, os principais aprendizados foram:  
+
+- Estruturação de páginas web com **HTML5** e estilização com **CSS3**  
+- Uso do **Bootstrap** para criação de layouts responsivos e componentes reutilizáveis  
+- Aplicação de conceitos de **design responsivo**, garantindo boa experiência em diferentes dispositivos  
+- Organização de conteúdo em seções como Home, Sobre, Produtos, Parceiros e Contato  
+
 ## Informações adicionais
 
 Este projeto não representa uma empresa real, sendo desenvolvido apenas para fins acadêmicos.
